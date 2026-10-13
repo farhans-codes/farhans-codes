@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://muhammedfarhan.is-a.dev/"><img alt="Portfolio — visit site" src="https://img.shields.io/badge/Portfolio-Visit%20site-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://muhammedfarhan.is-a.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20site-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/muhammed-farhan-sadique-mahi-70a6431a6/"><img alt="LinkedIn — connect" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:sadiquefarhan038@gmail.com"><img alt="Email — say hello" src="https://img.shields.io/badge/Email-Say%20hello-334155?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://muhammedfarhan.is-a.dev/assets/farhan-mahi-cv.pdf"><img alt="CV — view" src="https://img.shields.io/badge/CV-View%20PDF-F59E0B?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
