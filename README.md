@@ -1,6 +1,7 @@
+
 <!-- Header banner -->
 <p align="center">
-  <img width="100%" alt="Assalamualaikum, I'm Farhan — Flutter developer · Dhaka, Bangladesh" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B7285,100:02569B&height=200&section=header&text=Hi,%20I'm%20Farhan&fontColor=ffffff&fontSize=50&fontAlignY=36&animation=fadeIn&desc=Flutter%20developer%20%C2%B7%20Dhaka,%20Bangladesh&descSize=18&descAlignY=56">
+  <img width="100%" alt="Assalamualaikum, I'm Farhan — Flutter developer · Dhaka, Bangladesh" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B7285,100:02569B&height=220&section=header&text=Assalamualaikum%2C%20I%27m%20Farhan&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Flutter%20developer%20%C2%B7%20Dhaka,%20Bangladesh&descSize=20&descAlignY=58">
 </p>
 
 <!-- Typing tagline -->
@@ -100,3 +101,4 @@ class Farhan extends FlutterDeveloper {
 <p align="center">
   <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0B7285&height=110&section=footer">
 </p>
+  
